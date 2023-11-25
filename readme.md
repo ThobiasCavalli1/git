@@ -48,3 +48,15 @@
 >git config --global --unset user.email
 
 >git config --global --unset credential.helper
+
+## CLonar um projeto (Baixar projeto)
+> git clone https://github.com/usuario/projeto.git
+>
+    "usuario" nome do usúario git;
+    "projeto" projeto que será baixado.
+
+## Acesse o diretorio do projeto clonado
+> cd projeto
+
+## Para vizualizar no editor vscode
+> code .
