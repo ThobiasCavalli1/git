@@ -42,7 +42,7 @@
 >  
     O parametro "-m" define que estamos informando uma mensagem referente aos códigos que estamos salvando.
 
-## Deslogar login GIT do terminal
+## Deslogar GIT do terminal
 >git config --global --unset user.name
 
 >git config --global --unset user.email
