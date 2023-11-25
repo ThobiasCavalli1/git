@@ -49,7 +49,7 @@
 
 >git config --global --unset credential.helper
 
-## CLonar um projeto (Baixar projeto)
+## Clonar um projeto (Baixar projeto)
 > git clone https://github.com/usuario/projeto.git
 >
     "usuario" nome do usúario git;
