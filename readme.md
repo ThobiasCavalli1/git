@@ -73,3 +73,6 @@ Salvar as mudanças:
 
 ## Enviar para o servidor online
 >git push -u origin master
+
+## Mostrar o GIT
+>git show
